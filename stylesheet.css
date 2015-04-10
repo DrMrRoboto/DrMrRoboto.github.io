@@ -1,11 +1,116 @@
-html {
-	background-color: #75a319;
+body {
+	background-color: #00003d;
+	} 
+.WSpace {
+	background-color: #ffffff;
+	border-radius: 5px;
+	border: 2px solid black;
+	height: 900px;
+	width: 1200px;
+	margin-left: 65px;
+	margin-top: 65px;
+}
+.ben {
+	font-family: Tahoma;
+	font-style: bold;
+	font-size: 70px;
+	letter-spacing: 10px;
+	margin-top: 30px;
+	margin-left: 20px;
+} 
+.margis {
+	font-family: Times; 
+	font-size: 48px;
+	letter-spacing: 4px;
+	margin-top: -65px;
+	margin-left: 20px;
+}
+h1 {
+	color: #666666;
+	padding-left: 60px;
 }
 
-#body {
-	padding-left: 250px;
+.PInfo {
+	text-align: right;
+	margin-right: 959px;
+	font-family: Times;
+	color: #666666;
+	font-size: 12px;
+	font-style: italic;
+	line-height: 15px;
+	margin-top: -21px;
+	letter-spacing: 1px;
+}
+.CObjectives {
 	font-family: Tahoma;
-	border: 2px solid black;
+	font-size: 30px;
+	color: #cc3330;
+	margin-top: -177px;
+}
+
+h2 {
+	margin-left: 350px;
+	font-family: Tahoma;
+	font-size: 30px;
+	color: #cc3330;
+}
+.Wedge {
+	margin-left: 350px;
+	color: #666666;
+	margin-top: -15px;
+
+}
+.Hums {
+	margin-left: 350px;
+
+}
+.Video {
+	margin-left: 350px;
+
+}
+.COP {
+	margin-left: 350px;
+	font-family: Tahoma;
+	color: #666666;
+	font-variant: bold;
+	margin-top: 15px;
+}
+.Content {
+	margin-left: 350px;
+	font-family: Tahoma;
+	color: #666666;
+	font-variant: bold;
+	margin-top: -15px;
+}
+ul {
+	margin-left: 350px;
+	font-family: Tahoma;
+	color: #666666;
+	font-size: 13px;
+	margin-top: -10px;
+}
+a {
+	color: #666666;
+}
+a:link {
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size: 23px;
+	font-weight: bold;
+}
+a:hover {
+	color: #cc3330;
+}
+.Underline1 {
+	border: 1px solid #00003d;
+	width: 450px;
+	margin-left: 350px;
+	margin-top: -23px;
+}
+.Underline2 {
+	border: 1px solid #00003d;
+	width: 450px;
+	margin-top: -23px; 
 }
 
 
