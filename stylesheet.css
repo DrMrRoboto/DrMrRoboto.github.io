@@ -20,6 +20,7 @@ body {
 
 }
 .ben {
+	text-shadow: 2px 2px #272724;
 	font-family: Tahoma;
 	font-style: bold;
 	font-size: 70px;
@@ -29,6 +30,7 @@ body {
 	color: #666666;
 } 
 .margis {
+	text-shadow: 2px 2px #272724;
 	font-family: Times; 
 	font-size: 48px;
 	letter-spacing: 4px;
